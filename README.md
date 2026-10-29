@@ -1,5 +1,22 @@
 
-<h1 align="left">Hi, I'm Devananda Jyothi 👋</h1>
+### < Hi, I'm Devananda Jyothi/>
+
+
+```javascript
+const devananda = {
+  interests: [
+    "Web Development",
+    "AI & ML",
+    "Cybersecurity"
+  ],
+  technologies: {
+    languages: ["Python", "C++", "Java", "JavaScript"],
+    frontend: ["React"],
+    backend: ["Node.js", "Express"],
+    databases: ["MySQL", "Firebase", "Supabase"]
+  }
+};
+```
 
 ## 🛠️ Tech Stack
 
@@ -7,54 +24,16 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,firebase,supabase,mysql,git,github" />
 </p>
 
-## 👩‍💻 About Me
 
-```javascript
-const devananda = {
-  interests: [
-    "Web Development",
-    "AI & Machine Learning",
-    "Cybersecurity",
-    "Competitive Programming"
-  ],
-  technologies: {
-    languages: ["Python", "C++", "Java", "JavaScript"],
-    frontend: ["React"],
-    backend: ["Node.js", "Express"],
-    databases: ["MySQL", "Firebase", "Supabase"],
-    machineLearning: [
-      "DistilBERT",
-      "NLP",
-      "Scikit-learn",
-      "Pandas",
-      "NumPy"
-    ]
-  }
-};
-```
+[LinkedIn](https://www.linkedin.com/in/devananda-jyothi/) •
+[Email](mailto:jyothidevananda.mec@gmail.com) •
+[LeetCode](https://leetcode.com/u/devanandajyothi/) •
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+![Devananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7F00FF)
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -68,6 +47,3 @@ const devananda = {
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building. 🚀</i>
-</p>
