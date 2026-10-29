@@ -24,14 +24,18 @@ const devananda = {
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,firebase,supabase,mysql,git,github" />
 </p>
 
+<p align="left">
 
-[LinkedIn](https://www.linkedin.com/in/devananda-jyothi/) •
-[Email](mailto:jyothidevananda.mec@gmail.com) •
-[LeetCode](https://leetcode.com/u/devanandajyothi/) •
-
-### 📊 GitHub Stats
-
-![Devananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devananda11&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
+  <a href="https://www.linkedin.com/in/devananda-jyothi/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/devanandajyothi">
+    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  </a>
+  <a href="mailto:jyothidevananda.mec@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devananda11&color=7F00FF)
 ## 🤝 Connect With Me
