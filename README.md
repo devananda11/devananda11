@@ -17,12 +17,13 @@ const devananda = {
 };
 ```
 
+```
 ## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,firebase,supabase,mysql,git,github" />
 </p>
-
+```
 <br>
 
 <p align="left">
@@ -36,5 +37,7 @@ const devananda = {
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 <br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=devananda11&color=7F00FF)
