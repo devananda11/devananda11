@@ -17,13 +17,6 @@ const devananda = {
 };
 ```
 
-```
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,firebase,supabase,mysql,git,github" />
-</p>
-```
 <br>
 
 <p align="left">
