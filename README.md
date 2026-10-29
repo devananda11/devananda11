@@ -31,9 +31,9 @@ const devananda = {
 
 ### 📊 GitHub Stats
 
-![Devananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
+![Devananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devananda11&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7F00FF)
+![Profile Views](https://komarev.com/ghpvc/?username=devananda11&color=7F00FF)
 ## 🤝 Connect With Me
 
 <p align="left">
