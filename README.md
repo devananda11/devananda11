@@ -23,7 +23,7 @@ const devananda = {
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,firebase,supabase,mysql,git,github" />
 </p>
 
-<br><br>
+<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devananda-jyothi/">
@@ -36,5 +36,5 @@ const devananda = {
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<br><br>
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=devananda11&color=7F00FF)
