@@ -1,11 +1,6 @@
 
 <h1 align="left">Hi, I'm Devananda Jyothi 👋</h1>
 
-### Web Development · AI/ML · Cybersecurity
-
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -34,16 +29,31 @@ const devananda = {
       "Pandas",
       "NumPy"
     ]
-  },
-  currentlyLearning: [
-    "Data Structures & Algorithms",
-    "Backend Development",
-    "AI/ML"
-  ]
+  }
 };
 ```
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ## 🤝 Connect With Me
 
