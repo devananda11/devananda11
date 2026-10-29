@@ -12,7 +12,7 @@ const devananda = {
     languages: ["Python", "C++", "Java", "JavaScript"],
     frontend: ["React"],
     backend: ["Node.js", "Express"],
-    databases: ["MySQL", "Firebase", "Supabase"]
+    databases: ["MySQL"]
   }
 };
 ```
